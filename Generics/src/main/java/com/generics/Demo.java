@@ -13,6 +13,7 @@ public class Demo {
 		Demo d2 = new Demo(101);
 		Demo d3 = new Demo(45.67);
 		Demo d4=new Demo(101.72);
+		Demo d5=new Demo("Singh");
 	}
 
 }
