@@ -21,6 +21,7 @@ __3. Default Methods in Interfaces__
 __4. Functional Interfaces__
 
 * Introduces @FunctionalInterface annotation for interfaces with a single abstract method (SAM).
+  
 __Common examples:__ Runnable, Callable, Comparator.
 
 __5. Optional Class__
