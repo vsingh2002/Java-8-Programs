@@ -1,7 +1,7 @@
-__Java 8 Features__
+#Java 8 Features
 
 This version introduced new features that enhance productivity, improve performance, and modernize Java programming. Below are the key features of Java 8:
-__Key Features of Java 8__
+##Key Features of Java 8##
 
 __1. Lambda Expressions__
 
